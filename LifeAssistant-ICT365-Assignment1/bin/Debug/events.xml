@@ -1,0 +1,533 @@
+<?xml version="1.0"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding">
+  <SOAP-ENV:Body xmlns:lle="http://www.xyz.org/lifelogevents" >
+    
+    <lle:Home>
+      <lle:latitude>-32.0710</lle:latitude>
+      <lle:longitude>115.8250</lle:longitude>
+    </lle:Home>
+
+    <lle:track>
+      <lle:trackid>1</lle:trackid>
+      <lle:points>
+        <lle:point longitude="115.8218617824101" latitude="-32.08836366697408"></lle:point>
+        <lle:point longitude="115.8218481265839" latitude="-32.08837738575784"></lle:point>
+        <lle:point longitude="115.821595187667" latitude="-32.08862500044855"></lle:point>
+        <lle:point longitude="115.8213916233362" latitude="-32.08872392141184"></lle:point>
+        <lle:point longitude="115.8213040001433" latitude="-32.08891536437518"></lle:point>
+        <lle:point longitude="115.8210452562815" latitude="-32.08937277372122"></lle:point>
+        <lle:point longitude="115.8210744289492" latitude="-32.08978142060939"></lle:point>
+        <lle:point longitude="115.8208029557707" latitude="-32.09025785382495"></lle:point>
+        <lle:point longitude="115.8208124178569" latitude="-32.09063340164701"></lle:point>
+        <lle:point longitude="115.8207317436563" latitude="-32.09095333246976"></lle:point>
+        <lle:point longitude="115.8205245505263" latitude="-32.09118956594784"></lle:point>
+        <lle:point longitude="115.8204202355121" latitude="-32.09141740219486"></lle:point>
+        <lle:point longitude="115.8207330078454" latitude="-32.09210799340359"></lle:point>
+        <lle:point longitude="115.8206659553658" latitude="-32.09393257658577"></lle:point>
+        <lle:point longitude="115.8203298560714" latitude="-32.09518588715418"></lle:point>
+        <lle:point longitude="115.8201625042932" latitude="-32.09654689427619"></lle:point>
+        <lle:point longitude="115.820500043058" latitude="-32.09794543238485"></lle:point>
+        <lle:point longitude="115.8211837772239" latitude="-32.09894979367718"></lle:point>
+        <lle:point longitude="115.8220750535224" latitude="-32.09967219324832"></lle:point>
+        <lle:point longitude="115.8232675417555" latitude="-32.10064042541141"></lle:point>
+        <lle:point longitude="115.8240917178175" latitude="-32.1005840527306"></lle:point>
+        <lle:point longitude="115.8242701461749" latitude="-32.10066721988974"></lle:point>
+        <lle:point longitude="115.8262162214263" latitude="-32.10061472145185"></lle:point>
+        <lle:point longitude="115.8262231009839" latitude="-32.1000555996727"></lle:point>
+        <lle:point longitude="115.8263819936393" latitude="-32.09997121542286"></lle:point>
+        <lle:point longitude="115.8265695041919" latitude="-32.09998056693415"></lle:point>
+        <lle:point longitude="115.8267049440579" latitude="-32.09983283798517"></lle:point>
+        <lle:point longitude="115.8278672864625" latitude="-32.09949790050617"></lle:point>
+        <lle:point longitude="115.8290142107981" latitude="-32.09918017071387"></lle:point>
+        <lle:point longitude="115.8304061636794" latitude="-32.09894814879854"></lle:point>
+        <lle:point longitude="115.8313397416741" latitude="-32.09904342346373"></lle:point>
+        <lle:point longitude="115.8317514966697" latitude="-32.09901877355944"></lle:point>
+        <lle:point longitude="115.8327207410558" latitude="-32.09862004914814"></lle:point>
+        <lle:point longitude="115.8331116803379" latitude="-32.09855796151765"></lle:point>
+        <lle:point longitude="115.8336261893223" latitude="-32.09874785641112"></lle:point>
+        <lle:point longitude="115.834032388515" latitude="-32.09898069638962"></lle:point>
+        <lle:point longitude="115.8341492059387" latitude="-32.09900632054316"></lle:point>
+        <lle:point longitude="115.8344173373326" latitude="-32.09875542393296"></lle:point>
+        <lle:point longitude="115.8348689635983" latitude="-32.09802519672667"></lle:point>
+        <lle:point longitude="115.8353830727219" latitude="-32.09758763237143"></lle:point>
+        <lle:point longitude="115.8356336683361" latitude="-32.09715328333829"></lle:point>
+        <lle:point longitude="115.8363882562839" latitude="-32.09617256348088"></lle:point>
+        <lle:point longitude="115.836643622681" latitude="-32.09589249013477"></lle:point>
+        <lle:point longitude="115.8369375762888" latitude="-32.09487054349089"></lle:point>
+        <lle:point longitude="115.8371636582356" latitude="-32.09418416548397"></lle:point>
+        <lle:point longitude="115.8371472861403" latitude="-32.09380104476836"></lle:point>
+        <lle:point longitude="115.8369948438515" latitude="-32.09284414115007"></lle:point>
+        <lle:point longitude="115.8368980634286" latitude="-32.09264496489098"></lle:point>
+        <lle:point longitude="115.8356393696833" latitude="-32.09156821173578"></lle:point>
+        <lle:point longitude="115.8354762025434" latitude="-32.09147762167713"></lle:point>
+        <lle:point longitude="115.8352220023411" latitude="-32.09118377858754"></lle:point>
+        <lle:point longitude="115.8353613873492" latitude="-32.09060826930801"></lle:point>
+        <lle:point longitude="115.8355663071683" latitude="-32.09026597744009"></lle:point>
+        <lle:point longitude="115.8356033051202" latitude="-32.09018052194818"></lle:point>
+        <lle:point longitude="115.8354157320656" latitude="-32.08944592494889"></lle:point>
+        <lle:point longitude="115.8356431681983" latitude="-32.08925723978536"></lle:point>
+        <lle:point longitude="115.8357046188002" latitude="-32.08922742257509"></lle:point>
+        <lle:point longitude="115.8357079397595" latitude="-32.08767199754482"></lle:point>
+        <lle:point longitude="115.835671889222" latitude="-32.08639584223391"></lle:point>
+        <lle:point longitude="115.8356476539547" latitude="-32.08626155668124"></lle:point>
+        <lle:point longitude="115.8345442309144" latitude="-32.08591587280108"></lle:point>
+        <lle:point longitude="115.8342002371157" latitude="-32.08593057141731"></lle:point>
+        <lle:point longitude="115.8341212712374" latitude="-32.08587568901399"></lle:point>
+        <lle:point longitude="115.8337816878646" latitude="-32.08571200737153"></lle:point>
+        <lle:point longitude="115.8333112483681" latitude="-32.08577365307092"></lle:point>
+        <lle:point longitude="115.8329991889525" latitude="-32.08570952798598"></lle:point>
+        <lle:point longitude="115.8320728441949" latitude="-32.08566190613726"></lle:point>
+        <lle:point longitude="115.831662365901" latitude="-32.08567927960611"></lle:point>
+        <lle:point longitude="115.8315288512689" latitude="-32.08565276904199"></lle:point>
+        <lle:point longitude="115.8292886288064" latitude="-32.08541439175694"></lle:point>
+        <lle:point longitude="115.8286645960332" latitude="-32.08510735121428"></lle:point>
+        <lle:point longitude="115.8281012420648" latitude="-32.08494703851982"></lle:point>
+        <lle:point longitude="115.8274995682641" latitude="-32.08441650629786"></lle:point>
+        <lle:point longitude="115.8260997895956" latitude="-32.08382270851921"></lle:point>
+        <lle:point longitude="115.8259035015639" latitude="-32.0839052258293"></lle:point>
+        <lle:point longitude="115.8253293718958" latitude="-32.08379610991508"></lle:point>
+        <lle:point longitude="115.8246276352434" latitude="-32.0837067668419"></lle:point>
+        <lle:point longitude="115.824425751781" latitude="-32.08374108146594"></lle:point>
+        <lle:point longitude="115.8239484821702" latitude="-32.08374424418989"></lle:point>
+        <lle:point longitude="115.8233489900082" latitude="-32.08398452039559"></lle:point>
+        <lle:point longitude="115.8229352539728" latitude="-32.08427498246886"></lle:point>
+        <lle:point longitude="115.8228783711064" latitude="-32.08516674732716"></lle:point>
+        <lle:point longitude="115.8228777074818" latitude="-32.08571801422298"></lle:point>
+        <lle:point longitude="115.8232201714126" latitude="-32.08570449739102"></lle:point>
+        <lle:point longitude="115.8231443001575" latitude="-32.0860147561044"></lle:point>
+        <lle:point longitude="115.8231344511492" latitude="-32.08659477572581"></lle:point>
+        <lle:point longitude="115.8229642825921" latitude="-32.08700411585546"></lle:point>
+        <lle:point longitude="115.8228465669534" latitude="-32.08738616261218"></lle:point>
+        <lle:point longitude="115.8227079124034" latitude="-32.08779130177708"></lle:point>
+        <lle:point longitude="115.8224535345298" latitude="-32.08808003643865"></lle:point>
+        <lle:point longitude="115.8221634496627" latitude="-32.08818205417999"></lle:point>
+        <lle:point longitude="115.821876099824" latitude="-32.08835029866797"></lle:point>
+      </lle:points>
+      <lle:name>Bibra Lake Loop</lle:name>
+    </lle:track>
+
+    <lle:track>
+      <lle:trackid>2</lle:trackid>
+      <lle:points>
+        <lle:point longitude="115.8572193" latitude="-31.95904270000001"></lle:point>
+        <lle:point longitude="115.8577689" latitude="-31.9577993"></lle:point>
+        <lle:point longitude="115.8584717" latitude="-31.9580314"></lle:point>
+        <lle:point longitude="115.858933" latitude="-31.957071"></lle:point>
+        <lle:point longitude="115.8580103" latitude="-31.9567524"></lle:point>
+        <lle:point longitude="115.8585199" latitude="-31.9556692"></lle:point>
+        <lle:point longitude="115.8583697" latitude="-31.9556282"></lle:point>
+        <lle:point longitude="115.8584985" latitude="-31.955387"></lle:point>
+        <lle:point longitude="115.8586461" latitude="-31.9554361"></lle:point>
+        <lle:point longitude="115.8591154" latitude="-31.9544767"></lle:point>
+        <lle:point longitude="115.8602205" latitude="-31.9548636"></lle:point>
+        <lle:point longitude="115.8601185" latitude="-31.9550866"></lle:point>
+        <lle:point longitude="115.859786" latitude="-31.9558467"></lle:point>
+        <lle:point longitude="115.8600861" latitude="-31.9559461"></lle:point>
+        <lle:point longitude="115.8604811" latitude="-31.9560781"></lle:point>
+        <lle:point longitude="115.8604565" latitude="-31.9561152"></lle:point>
+        <lle:point longitude="115.8597591" latitude="-31.95588770000001"></lle:point>
+        <lle:point longitude="115.8596671" latitude="-31.95611510000001"></lle:point>
+        <lle:point longitude="115.8599838" latitude="-31.9573772"></lle:point>
+        <lle:point longitude="115.8604833" latitude="-31.9563018"></lle:point>
+        <lle:point longitude="115.8617386" latitude="-31.956716"></lle:point>
+        <lle:point longitude="115.8627954" latitude="-31.9570619"></lle:point>
+        <lle:point longitude="115.8628759" latitude="-31.9568617"></lle:point>
+        <lle:point longitude="115.8651986" latitude="-31.9576536"></lle:point>
+        <lle:point longitude="115.8653435" latitude="-31.9577037"></lle:point>
+        <lle:point longitude="115.8660999" latitude="-31.956097"></lle:point>
+        <lle:point longitude="115.8662862" latitude="-31.9561661"></lle:point>
+        <lle:point longitude="115.8667168" latitude="-31.9562245"></lle:point>
+        <lle:point longitude="115.8668777" latitude="-31.9560879"></lle:point>
+        <lle:point longitude="115.8670279" latitude="-31.9558057"></lle:point>
+        <lle:point longitude="115.869163" latitude="-31.9565294"></lle:point>
+        <lle:point longitude="115.8687177" latitude="-31.9575125"></lle:point>
+        <lle:point longitude="115.8690235" latitude="-31.9576036"></lle:point>
+        <lle:point longitude="115.8690503" latitude="-31.9575262"></lle:point>
+      </lle:points>
+      <lle:name>Perth Heart of Gold</lle:name>
+    </lle:track>
+
+    <lle:track>
+      <lle:trackid>3</lle:trackid>
+      <lle:points>
+        <lle:point longitude="116.0010037302936" latitude="-32.10592999865847"></lle:point>
+        <lle:point longitude="116.0016532248261" latitude="-32.10547317728157"></lle:point>
+        <lle:point longitude="116.0024135863306" latitude="-32.10539725998412"></lle:point>
+        <lle:point longitude="116.0030141813575" latitude="-32.10513000494489"></lle:point>
+        <lle:point longitude="116.0033463119802" latitude="-32.10484605415021"></lle:point>
+        <lle:point longitude="116.0036061433982" latitude="-32.1045598577066"></lle:point>
+        <lle:point longitude="116.0039086756232" latitude="-32.10414031279186"></lle:point>
+        <lle:point longitude="116.0041286695027" latitude="-32.10382632299965"></lle:point>
+        <lle:point longitude="116.0043314076999" latitude="-32.1033495034474"></lle:point>
+        <lle:point longitude="116.004471233758" latitude="-32.10313020111586"></lle:point>
+        <lle:point longitude="116.0047085843557" latitude="-32.10296559569257"></lle:point>
+        <lle:point longitude="116.0049344486018" latitude="-32.10273466142458"></lle:point>
+        <lle:point longitude="116.0049942268834" latitude="-32.10248300093793"></lle:point>
+        <lle:point longitude="116.0048207050321" latitude="-32.10218437408462"></lle:point>
+        <lle:point longitude="116.0047329737735" latitude="-32.10196954935024"></lle:point>
+        <lle:point longitude="116.0048730879351" latitude="-32.10122860364911"></lle:point>
+        <lle:point longitude="116.004826915076" latitude="-32.10098767705948"></lle:point>
+        <lle:point longitude="116.0048300543502" latitude="-32.10083466079902"></lle:point>
+        <lle:point longitude="116.004638433817" latitude="-32.10055563820446"></lle:point>
+        <lle:point longitude="116.0042843025892" latitude="-32.10024215941275"></lle:point>
+        <lle:point longitude="116.0038442030154" latitude="-32.09990596882625"></lle:point>
+        <lle:point longitude="116.0035462193881" latitude="-32.09968606585542"></lle:point>
+        <lle:point longitude="116.0033141205165" latitude="-32.09947671535055"></lle:point>
+        <lle:point longitude="116.0032242246968" latitude="-32.09942399045678"></lle:point>
+        <lle:point longitude="116.0030111453357" latitude="-32.09944030232647"></lle:point>
+        <lle:point longitude="116.0026466812149" latitude="-32.09982492819029"></lle:point>
+        <lle:point longitude="116.0021151971872" latitude="-32.10027355694665"></lle:point>
+        <lle:point longitude="115.9995812166695" latitude="-32.10267036385663"></lle:point>
+        <lle:point longitude="115.9986203145692" latitude="-32.10356716993537"></lle:point>
+        <lle:point longitude="115.9955708710947" latitude="-32.10643189670098"></lle:point>
+        <lle:point longitude="115.9926551007772" latitude="-32.10913088330227"></lle:point>
+        <lle:point longitude="115.9898280975966" latitude="-32.11180850948973"></lle:point>
+        <lle:point longitude="115.9875690971141" latitude="-32.11399300683826"></lle:point>
+        <lle:point longitude="115.9875672243129" latitude="-32.11414236813834"></lle:point>
+        <lle:point longitude="115.9885222805691" latitude="-32.11503115224721"></lle:point>
+        <lle:point longitude="115.9888355227208" latitude="-32.11517554942856"></lle:point>
+        <lle:point longitude="115.9891162273976" latitude="-32.11521174443181"></lle:point>
+        <lle:point longitude="115.9895283878039" latitude="-32.11520777613232"></lle:point>
+        <lle:point longitude="115.9897958356016" latitude="-32.11504170649234"></lle:point>
+        <lle:point longitude="115.9901335841284" latitude="-32.11461908872662"></lle:point>
+        <lle:point longitude="115.9906855710759" latitude="-32.11436367224466"></lle:point>
+        <lle:point longitude="115.9910008612983" latitude="-32.11389533488877"></lle:point>
+        <lle:point longitude="115.9911049727397" latitude="-32.11366924061933"></lle:point>
+        <lle:point longitude="115.9919789039007" latitude="-32.11339153408537"></lle:point>
+        <lle:point longitude="115.9924340018852" latitude="-32.11290634552944"></lle:point>
+        <lle:point longitude="115.9925378661468" latitude="-32.11244341026034"></lle:point>
+        <lle:point longitude="115.9925722898423" latitude="-32.11234657333544"></lle:point>
+        <lle:point longitude="115.9945600257584" latitude="-32.11026208942272"></lle:point>
+        <lle:point longitude="115.9949510949254" latitude="-32.10977246628391"></lle:point>
+        <lle:point longitude="115.9955892373486" latitude="-32.10904819887892"></lle:point>
+        <lle:point longitude="115.9966317562287" latitude="-32.10797557282331"></lle:point>
+        <lle:point longitude="115.9974114810075" latitude="-32.10742139653868"></lle:point>
+        <lle:point longitude="115.9975882212442" latitude="-32.10736866689776"></lle:point>
+        <lle:point longitude="115.9981936161202" latitude="-32.10720319614471"></lle:point>
+        <lle:point longitude="115.9986682854964" latitude="-32.10683367118676"></lle:point>
+        <lle:point longitude="115.9991028021612" latitude="-32.10668871447092"></lle:point>
+        <lle:point longitude="115.9997177711933" latitude="-32.10628741765349"></lle:point>
+        <lle:point longitude="116.0002846938164" latitude="-32.10622029093725"></lle:point>
+        <lle:point longitude="116.0008904896272" latitude="-32.10605245329407"></lle:point>
+        <lle:point longitude="116.0010037302936" latitude="-32.10592999865847"></lle:point>
+      </lle:points>
+      <lle:name>Champion Lakes Walk</lle:name>
+    </lle:track>
+
+    <lle:person>
+      <lle:id>1</lle:id>
+      <lle:name>Michael Knight</lle:name>
+      <lle:notes>Birthday 4th of March</lle:notes>
+      <lle:address>
+        <lle:string>47 Bagot Road, Subiaco WA</lle:string>
+        <lle:latitude>-31.9507456</lle:latitude>
+        <lle:longitude>115.8294413</lle:longitude>
+      </lle:address>
+      <lle:date>17/04/2017</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath>../../Resources/michael.jpg</lle:filepath>
+      <lle:relation>Cousin</lle:relation>
+    </lle:person>
+
+    <lle:person>
+      <lle:id>2</lle:id>
+      <lle:name>Sasha Ivanovic</lle:name>
+      <lle:notes>Went to school together last year</lle:notes>
+      <lle:address>
+        <lle:string>301 Shepperton Road, East Victoria Park WA</lle:string>
+        <lle:latitude>-31.98638</lle:latitude>
+        <lle:longitude>115.9061813</lle:longitude>
+      </lle:address>
+      <lle:date>26/05/2017</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath>../../Resources/sasha.jpg</lle:filepath>
+      <lle:relation>Friend</lle:relation>
+    </lle:person>
+
+    <lle:person>
+      <lle:id>3</lle:id>
+      <lle:name>Bobby O'Cannen</lle:name>
+      <lle:notes>Freak</lle:notes>
+      <lle:address>
+        <lle:string>17 Gannet Rise, Halls Head WA</lle:string>
+        <lle:latitude>-32.540664</lle:latitude>
+        <lle:longitude>115.692429</lle:longitude>
+      </lle:address>
+      <lle:date>03/02/2016</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath>../../Resources/bobby.jpg</lle:filepath>
+      <lle:relation>Enemy</lle:relation>
+    </lle:person>
+
+    <lle:person>
+      <lle:id>4</lle:id>
+      <lle:name>Morri O'Cannen</lle:name>
+      <lle:notes>Sister of the Freak</lle:notes>
+      <lle:address>
+        <lle:string>17 Gannet Rise, Halls Head WA</lle:string>
+        <lle:latitude>-32.5408618</lle:latitude>
+        <lle:longitude>115.6928451</lle:longitude>
+      </lle:address>
+      <lle:date>03/02/2016</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath>../../Resources/morri.jpg</lle:filepath>
+      <lle:relation>Enemy</lle:relation>
+    </lle:person>
+
+    <lle:person>
+      <lle:id>5</lle:id>
+      <lle:name>Lydia Matthews</lle:name>
+      <lle:notes>Anniversary on the 7th of June!</lle:notes>
+      <lle:address>
+        <lle:string>12 Ellard Avenue, Belmont WA</lle:string>
+        <lle:latitude>-31.9495487</lle:latitude>
+        <lle:longitude>115.937316</lle:longitude>
+      </lle:address>
+      <lle:date>07/06/2018</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath>../../Resources/lydia.jpg</lle:filepath>
+      <lle:relation>Girlfriend</lle:relation>
+    </lle:person>
+
+    <lle:appointment>
+      <lle:id>1</lle:id>
+      <lle:name>Doctor</lle:name>
+      <lle:notes>See Doctor about progress</lle:notes>
+      <lle:address>
+        <lle:string>50 Forrest Rd, Armadale WA 6112</lle:string>
+        <lle:latitude></lle:latitude>
+        <lle:longitude></lle:longitude>
+      </lle:address>
+      <lle:date>11/10/2018</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:recurring></lle:recurring>
+      <lle:frequency></lle:frequency>
+      <lle:time>13.00</lle:time>
+    </lle:appointment>
+
+    <lle:appointment>
+      <lle:id>2</lle:id>
+      <lle:name>Haircut</lle:name>
+      <lle:notes>Get a haircut</lle:notes>
+      <lle:address>
+        <lle:string></lle:string>
+        <lle:latitude></lle:latitude>
+        <lle:longitude></lle:longitude>
+      </lle:address>
+      <lle:date>10/10/2018</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:recurring></lle:recurring>
+      <lle:frequency></lle:frequency>
+      <lle:time>11.30</lle:time>
+    </lle:appointment>
+
+    <lle:appointment>
+      <lle:id>3</lle:id>
+      <lle:name>Bank Manager</lle:name>
+      <lle:notes>speak to bank manager about loan</lle:notes>
+      <lle:address>
+        <lle:string></lle:string>
+        <lle:latitude></lle:latitude>
+        <lle:longitude></lle:longitude>
+      </lle:address>
+      <lle:date>14/10/2018</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:recurring></lle:recurring>
+      <lle:frequency></lle:frequency>
+      <lle:time>09.30</lle:time>
+    </lle:appointment>
+
+    <lle:appointment>
+      <lle:id>4</lle:id>
+      <lle:name>valuation</lle:name>
+      <lle:notes>real estate guy at home</lle:notes>
+      <lle:address>
+        <lle:string></lle:string>
+        <lle:latitude></lle:latitude>
+        <lle:longitude></lle:longitude>
+      </lle:address>
+      <lle:date>10/10/2018</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:recurring></lle:recurring>
+      <lle:frequency></lle:frequency>
+      <lle:time>15.00</lle:time>
+    </lle:appointment>
+
+    <lle:appointment>
+      <lle:id>5</lle:id>
+      <lle:name>App Feedback</lle:name>
+      <lle:notes>meet app programmer for feedback</lle:notes>
+      <lle:address>
+        <lle:string></lle:string>
+        <lle:latitude></lle:latitude>
+        <lle:longitude></lle:longitude>
+      </lle:address>
+      <lle:date>20/10/2018</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:recurring></lle:recurring>
+      <lle:frequency></lle:frequency>
+      <lle:time>11.00</lle:time>
+    </lle:appointment>
+
+    <lle:memory>
+      <lle:id>1</lle:id>
+      <lle:name>Doggo!</lle:name>
+      <lle:notes>OMG adorable doggo!</lle:notes>
+      <lle:address>
+        <lle:string></lle:string>
+        <lle:latitude></lle:latitude>
+        <lle:longitude></lle:longitude>
+      </lle:address>
+      <lle:date>01/10/2018</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:reminder>True</lle:reminder>
+      <lle:remindwhen>Daily</lle:remindwhen>
+    </lle:memory>
+
+    <lle:memory>
+      <lle:id>2</lle:id>
+      <lle:name>Accident?</lle:name>
+      <lle:notes>Saw this car drive past and clip a parked car, reported it but this is so I remember</lle:notes>
+      <lle:address>
+        <lle:string></lle:string>
+        <lle:latitude></lle:latitude>
+        <lle:longitude></lle:longitude>
+      </lle:address>
+      <lle:date>09/10/2018</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:reminder></lle:reminder>
+      <lle:remindwhen></lle:remindwhen>
+    </lle:memory>
+
+    <lle:memory>
+      <lle:id>3</lle:id>
+      <lle:name>Lydia said I should read "1984"</lle:name>
+      <lle:notes></lle:notes>
+      <lle:address>
+        <lle:string></lle:string>
+        <lle:latitude></lle:latitude>
+        <lle:longitude></lle:longitude>
+      </lle:address>
+      <lle:date>05/09/2018</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:reminder></lle:reminder>
+      <lle:remindwhen></lle:remindwhen>
+    </lle:memory>
+
+    <lle:memory>
+      <lle:id>4</lle:id>
+      <lle:name>Apples?</lle:name>
+      <lle:notes>apparently apples are good for memory</lle:notes>
+      <lle:address>
+        <lle:string></lle:string>
+        <lle:latitude></lle:latitude>
+        <lle:longitude></lle:longitude>
+      </lle:address>
+      <lle:date>06/06/2018</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:reminder></lle:reminder>
+      <lle:remindwhen></lle:remindwhen>
+    </lle:memory>
+
+    <lle:memory>
+      <lle:id>5</lle:id>
+      <lle:name>Sale at Kmart on crisps!</lle:name>
+      <lle:notes></lle:notes>
+      <lle:address>
+        <lle:string></lle:string>
+        <lle:latitude></lle:latitude>
+        <lle:longitude></lle:longitude>
+      </lle:address>
+      <lle:date>01/10/2018</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:reminder></lle:reminder>
+      <lle:remindwhen></lle:remindwhen>
+    </lle:memory>
+
+    <lle:task>
+      <lle:id>1</lle:id>
+      <lle:name>Grocery Shopping</lle:name>
+      <lle:notes>Don't forget milk</lle:notes>
+      <lle:address>
+        <lle:string>1383 Albany Hwy, Cannington WA 6107</lle:string>
+        <lle:latitude>-32.0218315</lle:latitude>
+        <lle:longitude>115.9365638</lle:longitude>
+      </lle:address>
+      <lle:date>17/09/18</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:completed>false</lle:completed>
+    </lle:task>
+
+    <lle:task>
+      <lle:id>2</lle:id>
+      <lle:name>Get prescription filled</lle:name>
+      <lle:notes>Script is in the medicine cabinet</lle:notes>
+      <lle:address>
+        <lle:string>2/1425-1427 Albany Hwy, Cannington WA 6107</lle:string>
+        <lle:latitude>-32.0218315</lle:latitude>
+        <lle:longitude>115.9365638</lle:longitude>
+      </lle:address>
+      <lle:date>12/09/18</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:completed>true</lle:completed>
+    </lle:task>
+
+    <lle:task>
+      <lle:id>3</lle:id>
+      <lle:name>Pick up drycleaning</lle:name>
+      <lle:notes>2 shirts, 1 tie, 4 skirts</lle:notes>
+      <lle:address>
+        <lle:string>2/40 Milligan St, Perth WA 6000</lle:string>
+        <lle:latitude>-31.9510405</lle:latitude>
+        <lle:longitude>115.8498913</lle:longitude>
+      </lle:address>
+      <lle:date>18/10/18</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:completed>false</lle:completed>
+    </lle:task>
+
+    <lle:task>
+      <lle:id>4</lle:id>
+      <lle:name>Buy nail polish</lle:name>
+      <lle:notes>Green glitter, under coat and top coat</lle:notes>
+      <lle:address>
+        <lle:string>200 Murray St, Perth WA 6000</lle:string>
+        <lle:latitude>-31.9525667</lle:latitude>
+        <lle:longitude>115.8599392</lle:longitude>
+      </lle:address>
+      <lle:date>14/09/18</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:completed>false</lle:completed>
+    </lle:task>
+
+    <lle:task>
+      <lle:id>5</lle:id>
+      <lle:name>Get chocolate cake recipe</lle:name>
+      <lle:notes>Nana has the recipe</lle:notes>
+      <lle:address>
+        <lle:string>83 Marlow Street, Wembley WA</lle:string>
+        <lle:latitude>-31.9318854</lle:latitude>
+        <lle:longitude>115.8054213</lle:longitude>
+      </lle:address>
+      <lle:date>04/09/18</lle:date>
+      <lle:related></lle:related>
+      <lle:filepath></lle:filepath>
+      <lle:completed>true</lle:completed>
+    </lle:task>
+    
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
